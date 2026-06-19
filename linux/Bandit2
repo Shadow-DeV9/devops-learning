@@ -1,0 +1,1 @@
+bandit lvl 2: used the same command in the previous level to search for any files or directories, this time however our file was name '-' so i had to use cat ./- to tell the system to look inside the current directory and read out the file instead of thinking '-' is an option for the cat command itself

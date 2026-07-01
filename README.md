@@ -13,12 +13,9 @@ Welcome to my central repository for tracking my progress, completing lab assign
 
 Whenever I update my solutions or add new documentation, I follow the standard deployment cycle:
 
-1. **Stage changes:** 
-2. **Commit snapshot:** On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-3. **Push upstream:** 
+1. **Stage changes:** `git add .`
+2. **Commit snapshot:** `git commit -m "Type: Brief description of change"`
+3. **Push upstream:** `git push`
 
 ---
 
